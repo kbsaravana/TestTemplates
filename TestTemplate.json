@@ -9,8 +9,8 @@
         "categoryNames": [
             "productivity"
         ],
-        "description": "${Resources.TEMPLATE_DAILY_REMINDERS_DESCRIPTION}",
-        "displayName": "${Resources.TEMPLATE_DAILY_REMINDERS_DISPLAYNAME}",
+        "description": "Test Reminder desc 1",
+        "displayName": "Test Reminder desc 1",
         "galleryName": "public",
         "summary": "",
         "definition": {
